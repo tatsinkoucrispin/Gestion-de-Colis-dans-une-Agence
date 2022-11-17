@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Projet\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj": {}
+    "A:\\Projet\\Gestion_Colis\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj": {}
   },
   "projects": {
-    "A:\\Projet\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj": {
+    "A:\\Projet\\Gestion_Colis\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Projet\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj",
+        "projectUniqueName": "A:\\Projet\\Gestion_Colis\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj",
         "projectName": "GestionColis",
-        "projectPath": "A:\\Projet\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj",
+        "projectPath": "A:\\Projet\\Gestion_Colis\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\GestionColis.csproj",
         "packagesPath": "C:\\Users\\TATSINKOU\\.nuget\\packages\\",
-        "outputPath": "A:\\Projet\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\obj\\",
+        "outputPath": "A:\\Projet\\Gestion_Colis\\Gestion-de-Colis-dans-une-Agence\\GestionColis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TATSINKOU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.11, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

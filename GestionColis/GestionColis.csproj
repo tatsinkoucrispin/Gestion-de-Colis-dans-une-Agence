@@ -8,4 +8,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Vues\Colis\" />
+    <Folder Include="Vues\Recepteur\" />
+  </ItemGroup>
+
 </Project>
